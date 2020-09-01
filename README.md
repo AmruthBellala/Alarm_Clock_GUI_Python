@@ -12,4 +12,4 @@ First, let’s check the steps to build an Alarm Clock program in Python:
 </p>
 
 For the code explanation visit
-
+https://aravindanamruth.wixsite.com/localtechies/post/alarm-clock-gui-using-python
